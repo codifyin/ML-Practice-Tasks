@@ -1,0 +1,9 @@
+name,age,city,temperature_F,income,date
+Alice,25,New York,95.0,55000.0,2021-06-15
+Bob,thirty,Los Angeles,102.0,60000.0,15/06/2021
+Carol,35,new york,89.0,,2021/06/16
+bob,40,Chicago,78.0,70000.0,06-17-2021
+Alice,1000,Chicago,84.0,45000.0,
+Eve,29,Boston,98.0,50000.0,2021-06-19
+,,Boston,,,2021-06-20
+Bob,thirty,Los Angeles,102.0,60000.0,15/06/2021
